@@ -1,5 +1,5 @@
 
-<img src="oregon-population-density.png" style="height: 100px; width: 100px;"/>
+<img src="oregon-population-density.png" style="height: 500px; width: 500px;"/>
 
 ## References
 • [Lambert conformal conic projection](https://en.wikipedia.org/wiki/Lambert_conformal_conic_projection)
