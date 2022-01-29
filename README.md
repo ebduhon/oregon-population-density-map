@@ -1,4 +1,6 @@
 
+<img src="oregon-population-density.png" style="height: 100px; width: 100px;"/>
+
 ## References
 • [Lambert conformal conic projection](https://en.wikipedia.org/wiki/Lambert_conformal_conic_projection)
 • [Albers equal-area conic projection](https://en.wikipedia.org/wiki/Albers_projection)
